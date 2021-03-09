@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently crafting on <a href="https://github.com/orgs/Digital-Indonesia-Media">Digital Indonesia Media</a>
 - 🌱 I’m currently learning <strong>ReactJS, NodeJS, electronJS</strong>
-- 👯 I’m looking to collaborate on <strong>Web Development and Digital Transformating</strong>
+- 👯 I’m looking to collaborate on <strong>Web Development and Digital Transformation</strong>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
