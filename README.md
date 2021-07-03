@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently crafting on <a href="https://github.com/orgs/Digital-Indonesia-Media">Digital Indonesia Media</a>
-- 🌱 I’m currently learning <strong>ReactJS, NodeJS, electronJS</strong>
+- 🌱 I’m currently using <strong>Ruby on Rails, Golang, ReactJS, NodeJS, electronJS</strong>
 - 👯 I’m looking to collaborate on <strong>Web Development and Digital Transformation</strong>
 
 ## 🔧 Technologies & Tools
