@@ -16,9 +16,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a style" href="https://github.com/Azzamjiul/Azzamjiul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azzamjiul&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Azzam's GitHub Stats" />
-</a>
+[![Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzamjiul&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/azzamjiul/)
 
 
 <!--
