@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently developing on <a href="https://bahasabooster.com/">Bahasa Booster</a>
+- 🔭 I’m currently building <a href="https://bahasabooster.com/">Bahasa Booster</a>
 - 🌱 I’m currently using <strong>Ruby on Rails, Golang, and Laravel</strong>
 - 👯 I’m looking to collaborate on <strong>Software Development and Digital Transformation</strong>
 
