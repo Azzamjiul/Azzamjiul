@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently building <a href="https://bahasabooster.com/">Bahasa Booster</a>
 - 🌱 I’m currently using <strong>Ruby on Rails, Golang, and Laravel</strong>
-- 👯 I’m looking to collaborate on <strong>Software Development and Digital Transformation</strong>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
