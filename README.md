@@ -2,7 +2,7 @@
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently building <a href="https://bahasabooster.com/">Bahasa Booster</a>
-- 🌱 I’m currently using <strong>Ruby on Rails, Golang, and Laravel</strong>
+- 🌱 I’m currently using <strong>Ruby on Rails, Go, and Laravel</strong>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
