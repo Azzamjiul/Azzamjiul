@@ -20,5 +20,5 @@
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=Azzamjiul&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="azzamjiul" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzamjiul&hide=html,blade,jupyter%20notebook,css,javascript,less&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzamjiul&hide=php,scss,html,blade,jupyter%20notebook,css,javascript,less&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </p>
