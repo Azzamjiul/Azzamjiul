@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I’m currently using <strong>Ruby on Rails, Go, and Laravel</strong>
+🌱 I’m currently using <strong>Node JS and Laravel</strong> <br>
+🌱 I've experience using <strong>Go and Ruby on Rails</strong> also
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
