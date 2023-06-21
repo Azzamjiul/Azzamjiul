@@ -16,7 +16,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p>
-    <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=azzamjiul&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="azzamjiul" />
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=Azzamjiul&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="azzamjiul" />
+<p float="left">
+    <img  height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=azzamjiul&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="azzamjiul" />
+    <img  height="135em" src="https://github-readme-stats.vercel.app/api?username=Azzamjiul&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="azzamjiul" />
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzamjiul&layout=compact&show_icons=true&langs_count=6&hide=html,css,hack,blade&show=6&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="my top langs"></img>
 </p>
